@@ -64,6 +64,7 @@ pg_password='{{ common_password }}'
 pg_sslmode='prefer'  # set to 'verify-full' for client-side enforced SSL
 
 registry_url='registry.redhat.io'
+redis_mode='standalone'
 
 # Automation hub configuration
 

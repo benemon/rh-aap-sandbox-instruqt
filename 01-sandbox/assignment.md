@@ -15,6 +15,7 @@ tabs:
   url: https://gateway.${_SANDBOX_ID}.instruqt.io
   new_window: true
 difficulty: basic
+enhanced_loading: null
 ---
 
 Red Hat Ansible Automation Platform Sandbox

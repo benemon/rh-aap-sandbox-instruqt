@@ -7,19 +7,17 @@ tags: []
 owner: hashicorp-field-ops
 developers:
 - ben.holmes@hashicorp.com
+show_timer: true
 idle_timeout: 21600
-timelimit: 21600
+timelimit: 28800
 lab_config:
-  overlay: false
-  width: 33
-  position: right
   sidebar_enabled: true
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   loadingMessages: true
-  lab_v2: true
   override_challenge_layout: false
   hideStopButton: false
   default_layout: AssignmentRight
   default_layout_sidebar_size: 33
-checksum: "316041353355225923"
+checksum: "5640308744981617744"
+enhanced_loading: false
